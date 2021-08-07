@@ -1,2 +1,5 @@
-* [首页](/)
-* [使用说明](/help/readme.md "帮助文档")
+* [首页](/ "movers 搬运工好帮手官网,短视频无水印解析工具")
+* [帮助文档](/help/readme.md "帮助文档")
+* [交流群](/help/group.md "交流群")
+* [支持哪些平台](/help/platform.md "支持哪些平台")
+* [捐助](/donte.md "捐助")
