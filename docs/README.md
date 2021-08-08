@@ -4,18 +4,29 @@
 
 ###  下载地址
 
-* [本地下载](https://note.youdao.com/yws/api/personal/file/E55E1E70F527445BBDA0A1A990D24DF0?method=download&shareKey=dac8ffb40459359d9337d2441fda61ea)
-* [网盘下载](https://wwx.lanzoui.com/ip61Pscsj4b)
+* [本地下载](https://note.youdao.com/yws/api/personal/file/1DF8D467781A43E288E4FB6E9E79FD3D?method=download&shareKey=0553e7146b1993f19d344ecfc8c213ea)
+* [网盘下载](https://wwx.lanzoui.com/iTjSesdmvla)
 
 ### 更新日志
 
-**v1.0.0**
+v1.0.1
+更新时间：2021-8-8
 
-**更新时间：2021-8-8**
+更新内容：
 
-**更新内容：**
+​	1、修复BUG
 
-​	**1、首次发布  **
+----
+
+
+
+v1.0.0
+
+更新时间：2021-8-8
+
+更新内容：
+
+1、首次发布 
 
 
 
