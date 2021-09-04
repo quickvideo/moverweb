@@ -4,8 +4,8 @@
 
 ###  下载地址
 
-* [本地下载](https://note.youdao.com/yws/api/personal/file/C56E087B785C457298F7DE3A424F130D?method=download&shareKey=430438be882a351836eda2560b42f9d6)
-* [网盘下载](https://wwx.lanzoui.com/infAAtlhgra)
+* [本地下载](https://note.youdao.com/yws/api/personal/file/9095F2C4D43A4A0B9581651EF8B9A293?method=download&shareKey=c3e4b731a3b8758ffc31d095903cb95f)
+* [网盘下载](https://wwx.lanzoui.com/iD0yttlizha)
 
 ### 更新日志
 
