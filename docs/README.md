@@ -4,11 +4,21 @@
 
 ###  下载地址
 
-* [本地下载](https://note.youdao.com/yws/api/personal/file/9095F2C4D43A4A0B9581651EF8B9A293?method=download&shareKey=c3e4b731a3b8758ffc31d095903cb95f)
-* [网盘下载](https://wwx.lanzoui.com/iD0yttlizha)
+* [本地下载](https://note.youdao.com/yws/api/personal/file/02483E34628E42678A4E19698DDF879B?method=download&shareKey=b3fd16d1c73b8b295d1d22272961d339)
+* [网盘下载](https://wwx.lanzoui.com/iVBR0wqj0yb)
 
 ### 更新日志
+v1.0.4
 
+更新时间：2021-11-21
+
+更新内容：
+
+​	1、修复已知BUG
+
+​	2、由于服务器即将到期 只能收费了 否则无法承担服务器的正常运营
+
+----
 v1.0.3
 
 更新时间：2021-9-4
