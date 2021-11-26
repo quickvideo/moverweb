@@ -4,10 +4,19 @@
 
 ###  下载地址
 
-* [本地下载](https://note.youdao.com/yws/api/personal/file/02483E34628E42678A4E19698DDF879B?method=download&shareKey=b3fd16d1c73b8b295d1d22272961d339)
-* [网盘下载](https://wwx.lanzoui.com/iVBR0wqj0yb)
+* [本地下载](https://note.youdao.com/yws/api/personal/file/AD665A01F29F4EBEA992E16C7170DFFF?method=download&shareKey=22d2219ce4770f2a6f0874265f6a9c38)
+* [网盘下载](https://wwx.lanzoui.com/iFbGHwxqo9e)
 
 ### 更新日志
+v1.0.5
+
+更新时间：2021-11-26
+
+更新内容：
+
+​	1、修复皮皮虾无法下载视频
+
+----
 v1.0.4
 
 更新时间：2021-11-21
