@@ -4,10 +4,19 @@
 
 ###  下载地址
 
-* [本地下载](https://note.youdao.com/yws/api/personal/file/AD665A01F29F4EBEA992E16C7170DFFF?method=download&shareKey=22d2219ce4770f2a6f0874265f6a9c38)
-* [网盘下载](https://wwx.lanzoui.com/iFbGHwxqo9e)
+* [本地下载](https://note.youdao.com/yws/api/personal/file/CDB55F6E8BEA43E6AE81095DE2FA7764?method=download&shareKey=10aa4781b6846ab6e515488cd7219564)
+* [网盘下载](https://wwx.lanzoux.com/i8chqxcy7hi)
 
 ### 更新日志
+v1.0.6
+
+更新时间：2021-12-07
+
+更新内容：
+
+​	1、暂时修复快手解析
+
+----
 v1.0.5
 
 更新时间：2021-11-26
